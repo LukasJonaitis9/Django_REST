@@ -1,1 +1,1 @@
-# MB_Grinkasa_Django
+# Django
